@@ -1,0 +1,22 @@
+.arekta {
+	color:red;
+}
+.heading_two {
+	color:blue;
+}
+
+.two_class {
+	color:yellow;
+}
+
+.heading_there {
+	color:green;
+}
+
+.something {
+	border-width: 5px 2px 3px 4px;
+	border-style: solid dotted double;
+	border-color:red blue yellow green;
+	border-radius: 20px 10px 2px 3px;	
+	
+}
